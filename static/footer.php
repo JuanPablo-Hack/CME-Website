@@ -3,37 +3,13 @@
         <div class="col-lg-7 col-md-6">
             <div class="row">
                 <div class="col-md-6 mb-5">
-                    <h3 class="text-primary mb-4">Get In Touch</h3>
+                    <h3 class="text-primary mb-4">Ponerse en contacto</h3>
                     <p><i class="fa fa-map-marker-alt mr-2"></i>123 Street, New York, USA</p>
-                    <p><i class="fa fa-phone-alt mr-2"></i>+012 345 67890</p>
-                    <p><i class="fa fa-envelope mr-2"></i>info@example.com</p>
+                    <p><i class="fa fa-phone-alt mr-2"></i><a href="tel:+3141219074">314-121-9074</a></p>
+                    <p><i class="fa fa-envelope mr-2"></i><a href="mailto:operaciones@cmelogistics.mx">operaciones@cmelogistics.mx</a></p>
                     <div class="d-flex justify-content-start mt-4">
-                        <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                        <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-                <div class="col-md-6 mb-5">
-                    <h3 class="text-primary mb-4">Quick Links</h3>
-                    <div class="d-flex flex-column justify-content-start">
-                        <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Home</a>
-                        <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>About Us</a>
-                        <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Our Services</a>
-                        <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Pricing Plan</a>
-                        <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-lg-5 col-md-6 mb-5">
-            <h3 class="text-primary mb-4">Newsletter</h3>
-            <p>Rebum labore lorem dolores kasd est, et ipsum amet et at kasd, ipsum sea tempor magna tempor. Accu kasd sed ea duo ipsum. Dolor duo eirmod sea justo no lorem est diam</p>
-            <div class="w-100">
-                <div class="input-group">
-                    <input type="text" class="form-control border-light" style="padding: 30px;" placeholder="Your Email Address">
-                    <div class="input-group-append">
-                        <button class="btn btn-primary px-4">Sign Up</button>
                     </div>
                 </div>
             </div>
@@ -50,10 +26,10 @@
         <div class="col-lg-6 text-center text-md-right">
             <ul class="nav d-inline-flex">
                 <li class="nav-item">
-                    <a class="nav-link text-white py-0" href="#">Privacy</a>
+                    <a class="nav-link text-white py-0" href="#">Aviso de privacidad</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-white py-0" href="#">Terms</a>
+                    <a class="nav-link text-white py-0" href="#">Términos y condiciones</a>
                 </li>
             </ul>
         </div>

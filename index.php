@@ -10,7 +10,6 @@
     <?php include "static/navbar.php"  ?>
     <?php include "components/Home/Header.php"  ?>
     <?php include "components/Home/AboutStar.php"  ?>
-    <?php include "components/Home/QuouteRequest.php"  ?>
     <?php include "components/Home/ServicesStart.php"  ?>
     <?php include "components/Home/FeaturesStart.php"  ?>
     <?php include "static/footer.php"  ?>

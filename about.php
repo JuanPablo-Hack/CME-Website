@@ -11,7 +11,6 @@
     <?php include "components/About/Header.php"  ?>
     <?php include "components/About/AboutStart.php"  ?>
     <?php include "components/About/Features.php"  ?>
-    <?php include "components/About/Team.php"  ?>
     <?php include "static/footer.php"  ?>
 </body>
 
