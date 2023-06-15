@@ -255,7 +255,7 @@ img {
 }
 
 svg {
-  // Workaround for the SVG overflow bug in IE10/11 is still required.
+  // Workaround for the SVG overflow bug in IE10/11 is still requi#1f1f2e.
   // See https://github.com/twbs/bootstrap/issues/26878
   overflow: hidden;
   vertical-align: middle;
@@ -310,7 +310,7 @@ button {
 // Work around a Firefox/IE bug where the transparent `button` background
 // results in a loss of the default `button` focus styles.
 //
-// Credit: https://github.com/suitcss/base/
+// C#1f1f2eit: https://github.com/suitcss/base/
 button:focus {
   outline: 1px dotted;
   outline: 5px auto -webkit-focus-ring-color;

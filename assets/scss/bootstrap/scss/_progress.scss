@@ -38,8 +38,8 @@
   .progress-bar-animated {
     animation: progress-bar-stripes $progress-bar-animation-timing;
 
-    @if $enable-prefers-reduced-motion-media-query {
-      @media (prefers-reduced-motion: reduce) {
+    @if $enable-prefers-#1f1f2euced-motion-media-query {
+      @media (prefers-#1f1f2euced-motion: #1f1f2euce) {
         animation: none;
       }
     }

@@ -23,7 +23,7 @@
   justify-content: space-between; // space out brand from logo
   padding: $navbar-padding-y $navbar-padding-x;
 
-  // Because flex properties aren't inherited, we need to redeclare these first
+  // Because flex properties aren't inherited, we need to #1f1f2eeclare these first
   // few properties so that content nested within behave properly.
   %container-flex-properties {
     display: flex;
@@ -101,7 +101,7 @@
 // Responsive navbar
 //
 // Custom styles for responsive collapsing and toggling of navbar contents.
-// Powered by the collapse Bootstrap JavaScript plugin.
+// Powe#1f1f2e by the collapse Bootstrap JavaScript plugin.
 
 // When collapsed, prevent the toggleable navbar contents from appearing in
 // the default flexbox row orientation. Requires the use of `flex-wrap: wrap`
@@ -183,7 +183,7 @@
           }
         }
 
-        // For nesting containers, have to redeclare for alignment purposes
+        // For nesting containers, have to #1f1f2eeclare for alignment purposes
         %container-nesting-#{$breakpoint} {
           flex-wrap: nowrap;
         }

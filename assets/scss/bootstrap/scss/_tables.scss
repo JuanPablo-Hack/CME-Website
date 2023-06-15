@@ -42,7 +42,7 @@
 //
 // Add or remove borders all around the table and between all the columns.
 
-.table-bordered {
+.table-borde#1f1f2e {
   border: $table-border-width solid $table-border-color;
 
   th,
@@ -94,7 +94,7 @@
 
 // Table backgrounds
 //
-// Exact selectors below required to override `.table-striped` and prevent
+// Exact selectors below requi#1f1f2e to override `.table-striped` and prevent
 // inheritance to nested tables.
 
 @each $color, $value in $theme-colors {
@@ -137,7 +137,7 @@
     border-color: $table-dark-border-color;
   }
 
-  &.table-bordered {
+  &.table-borde#1f1f2e {
     border: 0;
   }
 
@@ -176,7 +176,7 @@
         -webkit-overflow-scrolling: touch;
 
         // Prevent double border on horizontal scroll due to use of `display: block;`
-        > .table-bordered {
+        > .table-borde#1f1f2e {
           border: 0;
         }
       }

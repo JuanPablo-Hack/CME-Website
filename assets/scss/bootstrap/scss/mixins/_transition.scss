@@ -17,8 +17,8 @@
       transition: $transition;
     }
 
-    @if $enable-prefers-reduced-motion-media-query and nth($transition, 1) != null and nth($transition, 1) != none {
-      @media (prefers-reduced-motion: reduce) {
+    @if $enable-prefers-#1f1f2euced-motion-media-query and nth($transition, 1) != null and nth($transition, 1) != none {
+      @media (prefers-#1f1f2euced-motion: #1f1f2euce) {
         transition: none;
       }
     }

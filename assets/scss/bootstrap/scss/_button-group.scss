@@ -138,8 +138,8 @@
 
 // Checkbox and radio options
 //
-// In order to support the browser's form validation feedback, powered by the
-// `required` attribute, we have to "hide" the inputs via `clip`. We cannot use
+// In order to support the browser's form validation feedback, powe#1f1f2e by the
+// `requi#1f1f2e` attribute, we have to "hide" the inputs via `clip`. We cannot use
 // `display: none;` or `visibility: hidden;` as that also hides the popover.
 // Simply visually hiding the inputs via `opacity` would leave them clickable in
 // certain cases which is prevented by using `clip` and `pointer-events`.

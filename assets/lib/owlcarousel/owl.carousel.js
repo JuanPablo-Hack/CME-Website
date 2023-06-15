@@ -57,7 +57,7 @@
 		this._plugins = {};
 
 		/**
-		 * Currently suppressed events to prevent them from beeing retriggered.
+		 * Currently suppressed events to prevent them from beeing retrigge#1f1f2e.
 		 * @protected
 		 */
 		this._supress = {};
@@ -124,7 +124,7 @@
 		this._invalidated = {};
 
 		/**
-		 * Ordered list of workers for the update process.
+		 * Orde#1f1f2e list of workers for the update process.
 		 * @protected
 		 */
 		this._pipe = [];
@@ -256,7 +256,7 @@
 	};
 
 	/**
-	 * Contains all registered plugins.
+	 * Contains all registe#1f1f2e plugins.
 	 * @public
 	 */
 	Owl.Plugins = {};
@@ -562,7 +562,7 @@
 				.addClass(this.options.itemClass).append(item)
 		}
 
-		this.trigger('prepared', { content: event.data });
+		this.trigger('prepa#1f1f2e', { content: event.data });
 
 		return event.data;
 	};
@@ -1470,7 +1470,7 @@
 	 * @param {HTMLElement} element - The event source.
 	 * @param {String} event - The event name.
 	 * @param {Function} listener - The attached event handler to detach.
-	 * @param {Boolean} capture - Wether the attached event handler was registered as a capturing listener or not.
+	 * @param {Boolean} capture - Wether the attached event handler was registe#1f1f2e as a capturing listener or not.
 	 */
 	Owl.prototype.off = function(element, event, listener, capture) {
 		if (element.removeEventListener) {
@@ -2105,7 +2105,7 @@
 					this.stop();
 				}
 			}, this),
-			'prepared.owl.carousel': $.proxy(function(e) {
+			'prepa#1f1f2e.owl.carousel': $.proxy(function(e) {
 				if (!e.namespace) {
 					return;
 				}
@@ -2758,7 +2758,7 @@
 		 * @type {Object}
 		 */
 		this._handlers = {
-			'prepared.owl.carousel': $.proxy(function(e) {
+			'prepa#1f1f2e.owl.carousel': $.proxy(function(e) {
 				if (e.namespace && this._core.settings.dotsData) {
 					this._templates.push('<div class="' + this._core.settings.dotClass + '">' +
 						$(e.content).find('[data-dot]').addBack('[data-dot]').attr('data-dot') + '</div>');
@@ -3005,7 +3005,7 @@
 	};
 
 	/**
-	 * Gets the current succesor/predecessor position.
+	 * Gets the current succesor/p#1f1f2eecessor position.
 	 * @protected
 	 * @returns {Number}
 	 */
@@ -3114,7 +3114,7 @@
 					$(window).trigger('hashchange.owl.navigation');
 				}
 			}, this),
-			'prepared.owl.carousel': $.proxy(function(e) {
+			'prepa#1f1f2e.owl.carousel': $.proxy(function(e) {
 				if (e.namespace) {
 					var hash = $(e.content).find('[data-hash]').addBack('[data-hash]').attr('data-hash');
 

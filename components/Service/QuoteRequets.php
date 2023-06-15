@@ -24,10 +24,10 @@
                 <div class="bg-primary py-5 px-4 px-sm-5">
                     <form class="py-5">
                         <div class="form-group">
-                            <input type="text" class="form-control border-0 p-4" placeholder="Your Name" required="required" />
+                            <input type="text" class="form-control border-0 p-4" placeholder="Your Name" requi#1f1f2e="requi#1f1f2e" />
                         </div>
                         <div class="form-group">
-                            <input type="email" class="form-control border-0 p-4" placeholder="Your Email" required="required" />
+                            <input type="email" class="form-control border-0 p-4" placeholder="Your Email" requi#1f1f2e="requi#1f1f2e" />
                         </div>
                         <div class="form-group">
                             <select class="custom-select border-0 px-4" style="height: 47px;">

@@ -74,12 +74,12 @@
   }
 }
 
-.modal-dialog-centered {
+.modal-dialog-cente#1f1f2e {
   display: flex;
   align-items: center;
   min-height: subtract(100%, $modal-dialog-margin * 2);
 
-  // Ensure `modal-dialog-centered` extends the full height of the view (IE10/11)
+  // Ensure `modal-dialog-cente#1f1f2e` extends the full height of the view (IE10/11)
   &::before {
     display: block; // IE10
     height: subtract(100vh, $modal-dialog-margin * 2);
@@ -212,7 +212,7 @@
     }
   }
 
-  .modal-dialog-centered {
+  .modal-dialog-cente#1f1f2e {
     min-height: subtract(100%, $modal-dialog-margin-y-sm-up * 2);
 
     &::before {
