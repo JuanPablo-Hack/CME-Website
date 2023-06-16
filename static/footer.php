@@ -36,12 +36,9 @@
     </div>
 </div>
 <a href="#" class="btn btn-lg btn-primary back-to-top"><i class="fa fa-angle-double-up"></i></a>
-<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
 <script src="assets/lib/easing/easing.min.js"></script>
 <script src="assets/lib/waypoints/waypoints.min.js"></script>
 <script src="assets/lib/counterup/counterup.min.js"></script>
 <script src="assets/lib/owlcarousel/owl.carousel.min.js"></script>
-<script src="assets/mail/jqBootstrapValidation.min.js"></script>
 <script src="assets/mail/contact.js"></script>
 <script src="assets/js/main.js"></script>

@@ -8,7 +8,7 @@
             </div>
         </div>
         <div class="col-lg-6 text-center text-lg-right">
-            <div class="d-inline-flex align-items-center">
+            <!-- <div class="d-inline-flex align-items-center">
                 <a class="text-white px-2" href="">
                     <i class="fab fa-facebook-f"></i>
                 </a>
@@ -24,7 +24,7 @@
                 <a class="text-white pl-2" href="">
                     <i class="fab fa-youtube"></i>
                 </a>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>
