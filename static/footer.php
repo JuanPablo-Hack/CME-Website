@@ -1,3 +1,10 @@
+<div class="phone-call cbh-phone cbh-green cbh-show  cbh-static" id="clbh_phone_div">
+    <a id="WhatsApp-button" href="https://api.whatsapp.com/send?phone=5213141424429" target="_blank" class="phoneJs" title="WhatsApp 360imagem">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle1"></div>
+    </a>
+</div>
 <div class="container-fluid bg-dark text-white mt-5 py-5 px-sm-3 px-md-5">
     <div class="row pt-5">
         <div class="col-lg-7 col-md-6">
@@ -8,8 +15,7 @@
                     <p><i class="fa fa-phone-alt mr-2"></i><a href="tel:+3141465975">3141465975</a></p>
                     <p><i class="fa fa-envelope mr-2"></i><a href="mailto:direccion.comercial@cmelogistics.mx">direccion.comercial@cmelogistics.mx</a></p>
                     <div class="d-flex justify-content-start mt-4">
-                        <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="btn btn-outline-light btn-social mr-2" href="https://www.facebook.com/profile.php?id=100063632276502&mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a>
                     </div>
                 </div>
             </div>

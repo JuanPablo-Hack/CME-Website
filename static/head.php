@@ -9,3 +9,4 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
 <link href="assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 <link href="assets/css/style.css" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/whatsapp.css">
