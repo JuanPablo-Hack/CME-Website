@@ -4,9 +4,9 @@
             <div class="row">
                 <div class="col-md-6 mb-5">
                     <h3 class="text-primary mb-4">Ponerse en contacto</h3>
-                    <p><i class="fa fa-map-marker-alt mr-2"></i>123 Street, New York, USA</p>
-                    <p><i class="fa fa-phone-alt mr-2"></i><a href="tel:+3141219074">314-121-9074</a></p>
-                    <p><i class="fa fa-envelope mr-2"></i><a href="mailto:operaciones@cmelogistics.mx">operaciones@cmelogistics.mx</a></p>
+                    <p><i class="fa fa-map-marker-alt mr-2"></i>Calle Agustin Yañez N. 2 interior 9 planta alta, Salagua, Manzanillo, Colima</p>
+                    <p><i class="fa fa-phone-alt mr-2"></i><a href="tel:+3141465975">3141465975</a></p>
+                    <p><i class="fa fa-envelope mr-2"></i><a href="mailto:direccion.comercial@cmelogistics.mx">direccion.comercial@cmelogistics.mx</a></p>
                     <div class="d-flex justify-content-start mt-4">
                         <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>

@@ -7,7 +7,7 @@
         <div class="row pb-3">
             <div class="col-lg-3 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center bg-primary mb-4 p-4">
-                    <i class="fa fa-2x fa-plane text-dark pr-3"></i>
+                    <i class="fa fa-2x fa-truck text-dark pr-3"></i>
                     <h6 class="text-white font-weight-medium m-0">FLETE TERRESTRE</h6>
                 </div>
                 <p>Fletes terrestres locales y foráneos a cualquier parte de la república mexicana de mercancía general, peligrosa y carga sob#1f1f2eimensionada</p>
@@ -23,7 +23,7 @@
             </div>
             <div class="col-lg-3 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center bg-primary mb-4 p-4">
-                    <i class="fa fa-2x fa-truck text-dark pr-3"></i>
+                    <i class="fa fa-2x fa-plane text-dark pr-3"></i>
                     <h6 class="text-white font-weight-medium m-0">DESPACHO ADUANAL</h6>
                 </div>
                 <p>Ofrecemos soluciones a tu medida consiguiendo la mayor agilidad en la liberación aduanera que te ayude a cumplir y seguir con los lineamientos jurídicos necesarios.
@@ -43,7 +43,7 @@
 
             <div class="col-lg-3 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center bg-primary mb-4 p-4">
-                    <i class="fa fa-2x fa-ship text-dark pr-3"></i>
+                    <i class="fa fa-2x fa-lock text-dark pr-3"></i>
                     <h6 class="text-white font-weight-medium m-0">SEGURO DE MERCANCIAS</h6>
                 </div>
                 <p>Te ofrecemos proteger tu mercancía con una cobertura amplia y brindar una protección contra riesgos a lo que se encuentre expuestas tus mercancías.</p>
@@ -51,7 +51,7 @@
             </div>
             <div class="col-lg-3 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center bg-primary mb-4 p-4">
-                    <i class="fa fa-2x fa-truck text-dark pr-3"></i>
+                    <i class="fa fa-2x fa-user text-dark pr-3"></i>
                     <h6 class="text-white font-weight-medium m-0">BODEGA DE ALMACENAJE</h6>
                 </div>
                 <p>Contamos con bodegas de almacenamiento y expertos en el manejo de cargas en el puerto de Manzanillo..

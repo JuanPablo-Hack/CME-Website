@@ -2,9 +2,9 @@
     <div class="row py-2 px-lg-5">
         <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
             <div class="d-inline-flex align-items-center text-white">
-                <small><i class="fa fa-phone-alt mr-2"></i><a href="tel:+3141219074">314-121-9074</a></small>
+                <small><i class="fa fa-phone-alt mr-2"></i><a href="tel:+3141465975">3141465975</a></small>
                 <small class="px-3">|</small>
-                <small><i class="fa fa-envelope mr-2"></i><a href="mailto:operaciones@cmelogistics.mx">operaciones@cmelogistics.mx</a></small>
+                <small><i class="fa fa-envelope mr-2"></i><a href="mailto:direccion.comercial@cmelogistics.mx">direccion.comercial@cmelogistics.mx</a></small>
             </div>
         </div>
         <div class="col-lg-6 text-center text-lg-right">
