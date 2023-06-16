@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-5">
-                <img class="img-fluid w-100" src="assets/img/feature.jpg" alt="">
+                <img class="img-fluid w-100" src="assets/img/WhatsApp Image 2023-06-16 at 13.02.51.jpeg" alt="">
             </div>
             <div class="col-lg-7 py-5 py-lg-0">
                 <h6 class="text-primary text-uppercase font-weight-bold">Por qué elegirnos</h6>
