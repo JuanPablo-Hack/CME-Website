@@ -8,23 +8,12 @@
             </div>
         </div>
         <div class="col-lg-6 text-center text-lg-right">
-            <!-- <div class="d-inline-flex align-items-center">
-                <a class="text-white px-2" href="">
+            <div class="d-inline-flex align-items-center">
+                <a class="text-white px-2" href="https://www.facebook.com/profile.php?id=100063632276502&mibextid=LQQJ4d">
                     <i class="fab fa-facebook-f"></i>
                 </a>
-                <a class="text-white px-2" href="">
-                    <i class="fab fa-twitter"></i>
-                </a>
-                <a class="text-white px-2" href="">
-                    <i class="fab fa-linkedin-in"></i>
-                </a>
-                <a class="text-white px-2" href="">
-                    <i class="fab fa-instagram"></i>
-                </a>
-                <a class="text-white pl-2" href="">
-                    <i class="fab fa-youtube"></i>
-                </a>
-            </div> -->
+
+            </div>
         </div>
     </div>
 </div>
