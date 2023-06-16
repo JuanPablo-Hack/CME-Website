@@ -12,7 +12,7 @@
                 <h1 class="mb-4">Proveedor de servicios logísticos confiable y más rápido</h1>
                 <p class="mb-4">Somos una empresa que busca afianzarse como un proveedor logístico reconocido, mediante la prestación de servicios de calidad, 100% comprometidos en cumplir con los requerimientos solicitados por parte de nuestros clientes. </p>
                 <div class="d-flex align-items-center pt-2">
-                    <button type="button" class="btn-play" data-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal">
+                    <button type="button" class="btn-play" data-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal" aria-label="Video">
                         <span></span>
                     </button>
                     <h5 class="font-weight-bold m-0 ml-4">Ver video</h5>

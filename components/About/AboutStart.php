@@ -12,7 +12,7 @@
                 <h1 class="mb-4">Creando servicios de gran calidad</h1>
                 <p class="mb-4">C&ME LOGISTICS S DE RL DE CV somos una empresa que nace a partir de tener la visión de implementar soluciones logísticas que se adapten a las necesidades de los clientes, ubicada en Manzanillo, Colima siendo uno de los puertos más importantes del país por su movimiento de carga contenerizada, fundada en el año 2020 lo que nos permite tener un conocimiento extenso y real de la oferta de transporte ofreciendo un servicio confiable asegurándonos en su correcto cumplimiento desde el principio hasta fin.</p>
                 <div class="d-flex align-items-center pt-2">
-                    <button type="button" class="btn-play" data-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal">
+                    <button type="button" class="btn-play" data-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal" aria-label="Video">
                         <span></span>
                     </button>
                     <h5 class="font-weight-bold m-0 ml-4">Conocenos</h5>
