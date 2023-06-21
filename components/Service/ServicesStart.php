@@ -10,7 +10,7 @@
                     <i class="fa fa-2x fa-truck text-dark pr-3"></i>
                     <h6 class="text-white font-weight-medium m-0">FLETE TERRESTRE</h6>
                 </div>
-                <p>Fletes terrestres locales y foráneos a cualquier parte de la república mexicana de mercancía general, peligrosa y carga sob#1f1f2eimensionada</p>
+                <p>Fletes terrestres locales y foráneos a cualquier parte de la república mexicana de mercancía general, peligrosa y carga sobredimensionada</p>
 
             </div>
             <div class="col-lg-3 col-md-6 text-center mb-5">
