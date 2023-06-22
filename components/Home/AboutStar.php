@@ -4,13 +4,15 @@
             <div class="col-lg-5 pb-4 pb-lg-0">
                 <img class="img-fluid w-100" src="assets/img/WhatsApp Image 2023-06-16 at 13.02.41.jpeg" alt="">
                 <div class="bg-primary text-dark text-center p-4">
-                    <h3 class="m-0">2+ Años de Experiencia</h3>
+                    <h3 class="m-0">Años de Experiencia Nos Respaldan</h3>
                 </div>
             </div>
             <div class="col-lg-7">
                 <h6 class="text-primary text-uppercase font-weight-bold">Acerca de Nosotros</h6>
                 <h1 class="mb-4">Proveedor de servicios logísticos confiable y más rápido</h1>
-                <p class="mb-4">Somos una empresa que busca afianzarse como un proveedor logístico reconocido, mediante la prestación de servicios de calidad, 100% comprometidos en cumplir con los requerimientos solicitados por parte de nuestros clientes. </p>
+                <p class="mb-4">Somos una empresa que busca afianzarse como un proveedor logístico reconocido, mediante
+                    la prestación de servicios de calidad, 100% comprometidos en cumplir con los requerimientos
+                    solicitados por parte de nuestros clientes. </p>
                 <div class="d-flex align-items-center pt-2">
                     <button type="button" class="btn-play" data-toggle="modal" data-src="assets/img/video_promocional.mp4" data-target="#videoModal" aria-label="Video">
                         <span></span>

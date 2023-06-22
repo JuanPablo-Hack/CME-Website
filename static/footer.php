@@ -1,5 +1,6 @@
 <div class="phone-call cbh-phone cbh-green cbh-show  cbh-static" id="clbh_phone_div">
-    <a id="WhatsApp-button" href="https://api.whatsapp.com/send?phone=5213141219074" target="_blank" class="phoneJs" title="WhatsApp 360imagem">
+    <a id="WhatsApp-button" href="https://api.whatsapp.com/send?phone=5213141219074" target="_blank" class="phoneJs"
+        title="WhatsApp 360imagem">
         <div class="cbh-ph-circle"></div>
         <div class="cbh-ph-circle-fill"></div>
         <div class="cbh-ph-img-circle1"></div>
@@ -11,18 +12,25 @@
             <div class="row">
                 <div class="col-md-6 mb-5">
                     <h3 class="text-primary mb-4">Ponerse en contacto</h3>
-                    <p><i class="fa fa-map-marker-alt mr-2"></i>Calle Agustin Yañez N. 2 interior 9 planta alta, Salagua, Manzanillo, Colima</p>
+                    <p><i class="fa fa-map-marker-alt mr-2"></i>Calle Agustin Yañez N. 2 interior 9 planta alta,
+                        Salagua, Manzanillo, Colima</p>
                     <p><i class="fa fa-phone-alt mr-2"></i><a href="tel:+3141219074">3141219074</a></p>
-                    <p><i class="fa fa-envelope mr-2"></i><a href="mailto:direccion.comercial@cmelogistics.mx">direccion.comercial@cmelogistics.mx</a></p>
-                    <div class="d-flex justify-content-start mt-4">
-                        <a class="btn btn-outline-light btn-social mr-2" href="https://www.facebook.com/profile.php?id=100063632276502&mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a>
+                    <p><i class="fa fa-envelope mr-2"></i><a
+                            href="mailto:direccion.comercial@cmelogistics.mx">direccion.comercial@cmelogistics.mx</a>
+                    </p>
+                    <div class="d-flex justify-content-start mt-8">
+                        <a class="btn btn-outline-light btn-social mr-2"
+                            href="https://www.facebook.com/profile.php?id=100063632276502&mibextid=LQQJ4d"><i
+                                class="fab fa-facebook-f"></i></a>
+                        <p>SOLUCIONES LOGÍSTICAS C&ME</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<div class="container-fluid bg-dark text-white border-top py-4 px-sm-3 px-md-5" style="border-color: #3E3E4E !important;">
+<div class="container-fluid bg-dark text-white border-top py-4 px-sm-3 px-md-5"
+    style="border-color: #3E3E4E !important;">
     <div class="row">
         <div class="col-lg-6 text-center text-md-left mb-3 mb-md-0">
             <p class="m-0 text-white">&copy; <a href="#">C&ME Logistics</a>. Todos los derechos reservados.
